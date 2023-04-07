@@ -9,7 +9,7 @@ const Header = () => {
   };
 
   return (
-    <nav className="flex items-center justify-between flex-wrap bg-gray-800 p-6 sticky top-0 z-50">
+    <nav className="flex items-center justify-between flex-wrap bg-bg p-6 sticky top-0 z-50">
       <div className="flex items-center flex-shrink-0 text-white mr-6">
         {/* <img src="/logo.png" alt="Company Logo" className="h-8 mr-2" / */}
         <span className="font-semibold text-xl tracking-tight">
@@ -82,3 +82,37 @@ const Header = () => {
 };
 
 export default Header;
+
+
+// import React from 'react';
+
+// function Header() {
+//   return (
+//     <header className="bg-gray-900 text-white">
+//       <div className="container flex justify-between items-center py-4">
+//         <a href="/" className="font-bold text-lg">Your Company Name</a>
+//         <nav>
+//           <ul className="flex">
+//             <li><a href="#" className="px-4 py-2 hover:bg-gray-800">Home</a></li>
+//             <li><a href="#" className="px-4 py-2 hover:bg-gray-800">About</a></li>
+//             <li><a href="#" className="px-4 py-2 hover:bg-gray-800">Services</a></li>
+//             <li><a href="#" className="px-4 py-2 hover:bg-gray-800">Contact</a></li>
+//           </ul>
+//         </nav>
+//       </div>
+//       <div className="bg-gray-700 py-16">
+//         <div className="container flex items-center">
+//           <div className="w-1/2 pr-8">
+//             <h1 className="font-bold text-4xl mb-4">Service Name</h1>
+//             <a href="#" className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-full transition-colors duration-300 ease-in-out">Explore</a>
+//           </div>
+//           <div className="w-1/2">
+//             <img src="https://via.placeholder.com/500x300" alt="Banner Image" />
+//           </div>
+//         </div>
+//       </div>
+//     </header>
+//   );
+// }
+
+// export default Header;

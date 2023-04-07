@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Corporate Event",
+        "price": 400,
+        "quantity": 10,
+        "guest": 25,
+        "light": 3,
+        "table": 2,
+        "description": "Last 10 Years we extremely experienced in this field. You can complete your corporate event from us.",
+        "img": "https://i.ibb.co/7n1Mgrn/corporate-event.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Wedding Event",
+        "price": 300,
+        "quantity": 10,
+        "guest": 25,
+        "light": 3,
+        "table": 2,
+        "description": "Last 10 Years we extremely experienced in this field. You can complete your wedding event from us.",
+        "img": "https://i.ibb.co/FbFYMQb/wedding-event.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Public Event",
+        "price": 500,
+        "quantity": 10,
+        "guest": 25,
+        "light": 3,
+        "table": 2,
+        "description": "Last 10 Years we extremely experienced in this field. You can complete your public event from us.",
+        "img": "https://i.ibb.co/FbFYMQb/wedding-event.jpg"
+    }
+]

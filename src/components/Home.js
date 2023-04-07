@@ -1,14 +1,14 @@
 import React from "react";
 import BannerSlider from "./BannerSlider";
 import OurClients from "./OurClients";
-import Card from "./Card";
+import ItemCard from "./ItemCard";
 
 const Home = () => {
   return (
     <>
       <BannerSlider></BannerSlider>
       <OurClients></OurClients>
-      <Card></Card>
+      <ItemCard></ItemCard>
     </>
   );
 };

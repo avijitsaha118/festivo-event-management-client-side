@@ -9,7 +9,7 @@ const Header = () => {
   };
 
   return (
-    <nav className="flex items-center justify-between flex-wrap bg-gray-800 p-6">
+    <nav className="flex items-center justify-between flex-wrap bg-gray-800 p-6 sticky top-0 z-50">
       <div className="flex items-center flex-shrink-0 text-white mr-6">
         {/* <img src="/logo.png" alt="Company Logo" className="h-8 mr-2" / */}
         <span className="font-semibold text-xl tracking-tight">
